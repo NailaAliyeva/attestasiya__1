@@ -1,0 +1,50 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.main2{
+  width: 100%;
+  height: 200px;
+  background-size: cover;
+  display: flex;
+  margin-top: -380px;
+}
+li{
+  list-style: none;
+  margin: 20px;
+  font-weight: 800;
+  color: white;
+}
+.main3{
+  display: flex;
+  justify-content: flex-end;
+}
+.flex{
+  width: 1400px;
+  display: flex;
+  justify-content: flex-end;
+}
+.h22{
+  padding-top: 5px;
+  margin-left: 9px;
+  color: white;
+}
+.main{
+  width: 100%;
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+  background-image: url(https://media.istockphoto.com/id/954305374/photo/stairs-leading-up-to-heavenly-sky-toward-the-light.jpg?b=1&s=170667a&w=0&k=20&c=0sjTykl5vVXaLe5j-IeI6SXOup3KnldpLUl374cYNFs=);
+}
+.h2{
+  text-align: center;
+  color: white;
+  font-size: 40px;
+}
+.background{
+  width: 100%;
+  height: 350px;
+  display: flex;
+  align-items: center;
+}
